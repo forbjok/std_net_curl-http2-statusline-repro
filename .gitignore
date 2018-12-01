@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+curltest.so
+curltest.dylib
+curltest.dll
+curltest.a
+curltest.lib
+curltest-test-*
+*.exe
+*.o
+*.obj
+*.lst

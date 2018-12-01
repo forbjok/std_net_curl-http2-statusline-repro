@@ -1,0 +1,9 @@
+{
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"authors": [
+		"forbjok"
+	],
+	"copyright": "Copyright © 2018, forbjok",
+	"name": "curltest"
+}
